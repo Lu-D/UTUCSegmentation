@@ -36,7 +36,7 @@ Required install commands:
 ___ 
 ### Public Models
 
-Our public trained models described in the paper can be found [here](). We typically place them in the checkpoints folder and specify their location using -f [location] during testing.
+Our public trained models described in the paper can be found [here](https://drive.google.com/drive/folders/1SgfW9ol2jPlvK2B-YFck6UC95RLw8PBb?usp=sharing). We typically place them in the checkpoints folder and specify their location using -f [location] during testing.
 
 
 ___
